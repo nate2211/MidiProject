@@ -1,4 +1,5 @@
 Dynamic MIDI Generation Pipeline for FL Studio & Beyond
+<img width="1490" height="919" alt="Screenshot 2026-02-16 221258" src="https://github.com/user-attachments/assets/7b1142f6-7dbf-4585-8be1-76fc297ba806" />
 
 midicreator is a modular, block-based MIDI generation tool designed for rapid electronic music composition. Built with Python 3 and PyQt6, it allows producers to build complex musical sequences by stacking "Generators" (to create notes) and "FX" (to transform them) in a non-destructive pipeline.
 
